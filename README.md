@@ -1,14 +1,14 @@
-# Owais Ahmed 👋
+# Owais Ahmed
 ### Senior Full-Stack Web Developer & Mobile App Engineer
 
 [![Portfolio](https://img.shields.io/badge/Live%20Portfolio-siawaahmed.github.io-ff2a5f?style=for-the-badge)](https://siawaahmed.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-siawaahmed-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siawaahmed)
-[![Google Play](https://img.shields.io/badge/Google%20Play-Published%20Apps-414141?style=for-the-badge&logo=googleplay&logoColor=34A853)](https://play.google.com/store/apps/developer?id=Pixel+Nest)
+[![Google Play](https://img.shields.io/badge/Google%20Play-Published%20Apps-414141?style=for-the-badge&logo=googleplay&logoColor=34A853)](https://play.google.com/store/apps/developer?id=MHPartners)
 [![Experience](https://img.shields.io/badge/Experience-12%2B%20Years-ff2a5f?style=for-the-badge)](https://siawaahmed.github.io)
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I am a Senior Full-Stack Web Developer and Mobile App Engineer with **12+ years of professional experience** delivering high-performance digital products, scalable web platforms, and native Android applications.
 
@@ -16,7 +16,7 @@ My journey spans extensive client consulting, custom enterprise WordPress archit
 
 ---
 
-## 🛠️ Core Client Services
+## Core Client Services
 
 * **Custom WordPress & Plugin Engineering:** Pixel-perfect responsive themes, custom ACF/Gutenberg blocks, WooCommerce solutions, and performance-optimized plugins.
 * **Figma / PSD / XD / HTML to WordPress:** Pixel-accurate design-to-code conversions utilizing modern builders (Elementor Pro, Divi) or clean semantic custom code.
@@ -25,7 +25,7 @@ My journey spans extensive client consulting, custom enterprise WordPress archit
 
 ---
 
-## 🚀 Live Web Applications & SaaS Tools
+## Live Web Applications & SaaS Tools
 
 A curated selection of live production tools and utilities developed and maintained by Owais Ahmed:
 
@@ -46,7 +46,7 @@ A curated selection of live production tools and utilities developed and maintai
 
 ---
 
-## 📱 Android Applications on Google Play
+## Android Applications on Google Play
 
 Native and cross-platform mobile applications engineered for utility, speed, and clean UX:
 
@@ -59,7 +59,7 @@ Native and cross-platform mobile applications engineered for utility, speed, and
 
 ---
 
-## 💻 Tech Stack & Tooling
+## Tech Stack & Tooling
 
 ```
 Languages:        PHP, JavaScript (ES6+), TypeScript, Kotlin, SQL, HTML5, CSS3/SCSS
@@ -72,10 +72,11 @@ Design to Code:   Figma, Adobe XD, PSD, Responsive UI/UX, Mobile First Architect
 
 ---
 
-## 📬 Connect & Collaborate
+## Connect & Collaborate
 
 * **GitHub:** [github.com/siawaahmed](https://github.com/siawaahmed)
 * **Live Portfolio:** [siawaahmed.github.io](https://siawaahmed.github.io)
+* **Google Play Developer Profile:** [play.google.com/store/apps/developer?id=MHPartners](https://play.google.com/store/apps/developer?id=MHPartners)
 
 ---
 *© 2026 Owais Ahmed. All rights reserved.*
