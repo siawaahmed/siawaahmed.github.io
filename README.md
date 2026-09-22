@@ -4,13 +4,13 @@
 [![Portfolio](https://img.shields.io/badge/Live%20Portfolio-siawaahmed.github.io-ff2a5f?style=for-the-badge)](https://siawaahmed.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-siawaahmed-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siawaahmed)
 [![Google Play](https://img.shields.io/badge/Google%20Play-Published%20Apps-414141?style=for-the-badge&logo=googleplay&logoColor=34A853)](https://play.google.com/store/apps/developer?id=MHPartners)
-[![Experience](https://img.shields.io/badge/Experience-12%2B%20Years-ff2a5f?style=for-the-badge)](https://siawaahmed.github.io)
+[![Experience](https://img.shields.io/badge/Experience-13%2B%20Years-ff2a5f?style=for-the-badge)](https://siawaahmed.github.io)
 
 ---
 
 ## About Me
 
-I am a Senior Full-Stack Web Developer and Mobile App Engineer with **12+ years of professional experience** delivering high-performance digital products, scalable web platforms, and native Android applications.
+I am a Senior Full-Stack Web Developer and Mobile App Engineer with **13+ years of professional experience** delivering high-performance digital products, scalable web platforms, and native Android applications.
 
 My journey spans extensive client consulting, custom enterprise WordPress architecture, modern JavaScript/TypeScript ecosystems, and indie product development. Having completed hundreds of client projects worldwide with top-tier ratings, I also design, build, and maintain a growing portfolio of independent web applications and Android apps.
 
